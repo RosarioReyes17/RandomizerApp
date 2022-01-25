@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RandomizerApp</string>
+    <string name="app_name">RANDOMIZER APP</string>
     <string name="btnCoin">Coin Flipping</string>
     <string name="btnFlip">Flip Coin</string>
     <string name="btnDade">ROLL DICE</string>
